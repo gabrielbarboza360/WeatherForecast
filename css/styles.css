@@ -272,6 +272,7 @@ body.loading {
 
 #weatherinfo .results .daily_info {
     padding: 20px 0;
+    color: white;
 }
 
 
